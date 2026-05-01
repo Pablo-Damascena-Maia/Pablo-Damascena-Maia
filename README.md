@@ -35,20 +35,16 @@ Atualmente no 5º período de ADS [12], foco meu desenvolvimento na criação de
 
 ---
 
-### 📊 Atividade e Tecnologias
+### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pablo-Damascena-Maia&theme=dracula&area=true&hide_border=true" alt="Gráfico de Atividade" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pablo-Damascena-Maia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=86400)
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Pablo-Damascena-Maia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Damascena-Maia&layout=compact&theme=dracula&langs_count=6" />
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Damascena-Maia&layout=compact&theme=dracula&langs_count=6&cache_seconds=86400)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pablo-Damascena-Maia&theme=dracula" alt="Streak de Commits" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pablo-Damascena-Maia&theme=dracula)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pablo-Damascena-Maia&theme=dracula&area=true&hide_border=true)
+
 ---
 
 ### 📫 Vamos Conversar?
