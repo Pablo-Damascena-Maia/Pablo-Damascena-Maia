@@ -37,13 +37,7 @@ Atualmente no 5º período de ADS [12], foco meu desenvolvimento na criação de
 
 ### 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pablo-Damascena-Maia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Damascena-Maia&layout=compact&theme=dracula&langs_count=6&cache_seconds=86400)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pablo-Damascena-Maia&theme=dracula)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pablo-Damascena-Maia&theme=dracula&area=true&hide_border=true)
+Visite meu [**perfil do GitHub**](https://github.com/Pablo-Damascena-Maia) para ver minhas contribuições e repositórios em tempo real!
 
 ---
 
