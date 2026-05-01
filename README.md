@@ -50,18 +50,20 @@ Atualmente no 5º período de ADS [12], foco meu desenvolvimento na criação de
 ---
 
 ### 📫 Vamos Conversar?
+* **LinkedIn:** [pablo-maia-050b9138b](https://www.linkedin.com/in/pablo-maia-050b9138b)
+* **E-mail:** [pablodmaia533@gmail.com](mailto:pablodmaia533@gmail.com)
+* **WhatsApp:** [+55 (21) 99076-5381](https://wa.me/5521990765381)
+
+---
+
 <p align="left">
   <a href="https://www.linkedin.com/in/pablo-maia-050b9138b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="emailto:pablodmaia533@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:pablodmaia533@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://wa.me/5521990765381" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pablo-Damascena-Maia&label=Perfil%20Views&color=0077B5&style=flat" />
-</div>
