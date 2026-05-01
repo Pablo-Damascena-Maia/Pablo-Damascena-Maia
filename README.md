@@ -6,11 +6,11 @@
 ---
 
 ### 👨‍💻 Sobre Mim
-Atualmente no 5º período de ADS [12], foco meu desenvolvimento na criação de sistemas robustos, APIs escaláveis e soluções digitais que transformam a experiência do usuário [10]. Tenho forte base em **Engenharia de Software** e **Arquitetura de Sistemas** [10].
+Atualmente no 5º período de ADS, foco meu desenvolvimento na criação de sistemas robustos, APIs escaláveis e soluções digitais que transformam a experiência do usuário. Tenho forte base em **Engenharia de Software** e **Arquitetura de Sistemas**.
 
-- 🎓 **Educação:** Graduando em ADS (Faculdade de Tecnologia Senac Rio) [9, 12].
-- 🗣️ **Idiomas:** Inglês Avançado (CNA) [13].
-- 📍 **Localização:** Magé, RJ [8].
+- 🎓 **Educação:** Graduando em ADS (Faculdade de Tecnologia Senac Rio).
+- 🗣️ **Idiomas:** Inglês Avançado (CNA).
+- 📍 **Localização:** Magé, RJ.
 
 ---
 
@@ -28,10 +28,10 @@ Atualmente no 5º período de ADS [12], foco meu desenvolvimento na criação de
 ### 🏆 Projetos em Destaque
 
 #### 📦 [MiniStock - Sistema de Controle de Estoque](https://github.com/Pablo-Damascena-Maia/MiniStock)
-*Sistema completo de gestão (Mobile + API + Web) para gerenciamento de produtos em tempo real [15, 16, 17].*
-- **Backend:** Desenvolvido em **Java (Spring Boot)** com autenticação **JWT** e persistência em **MySQL (JPA/Hibernate)** [17, 18].
-- **Mobile:** Construído com **React Native**, utilizando Context API e AsyncStorage [17, 19].
-- **DevOps:** Pipeline automatizado com **Jenkins** e containerização via **Docker** [20].
+*Sistema completo de gestão (Mobile + API + Web) para gerenciamento de produtos em tempo real.*
+- **Backend:** Desenvolvido em **Java (Spring Boot)** com autenticação **JWT** e persistência em **MySQL (JPA/Hibernate)**.
+- **Mobile:** Construído com **React Native**, utilizando Context API e AsyncStorage.
+- **DevOps:** Pipeline automatizado com **Jenkins** e containerização via **Docker**.
 
 ---
 
