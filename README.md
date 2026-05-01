@@ -54,7 +54,7 @@ Atualmente no 5º período de ADS [12], foco meu desenvolvimento na criação de
   <a href="https://www.linkedin.com/in/pablo-maia-050b9138b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:pablodmaia533@gmail.com">
+  <a href="emailto:pablodmaia533@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://wa.me/5521990765381" target="_blank">
