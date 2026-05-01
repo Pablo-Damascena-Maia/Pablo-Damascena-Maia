@@ -37,7 +37,8 @@ Atualmente no 5º período de ADS [12], foco meu desenvolvimento na criação de
 
 ### 📊 Estatísticas do GitHub
 
-Visite meu [**perfil do GitHub**](https://github.com/Pablo-Damascena-Maia) para ver minhas contribuições e repositórios em tempo real!
+[![GitHub followers](https://img.shields.io/github/followers/Pablo-Damascena-Maia?label=Seguidores&style=social)](https://github.com/Pablo-Damascena-Maia)
+[![GitHub User's stars](https://img.shields.io/github/stars/Pablo-Damascena-Maia?style=social)](https://github.com/Pablo-Damascena-Maia)
 
 ---
 
